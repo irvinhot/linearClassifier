@@ -1,6 +1,6 @@
-Simple linear classifier to use with MNIST database
+# Simple linear classifier to use with MNIST database
 
-Author: Irvin Hot (irwinhot[at]gmail.com)
+**Author: Irvin Hot (irwinhot[at]gmail.com)**
 
 This is a simple linear classifier for optical character recognition (digits 0-9).
 You need to download datasets from: http://yann.lecun.com/exdb/mnist/ 
